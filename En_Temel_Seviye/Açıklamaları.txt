@@ -1,0 +1,23 @@
+0.1 = Hazır atanmış sayıların toplamı farkı çarpımı bölümü
+0.2 = Kullanicinin girdiği iki veriyi toplayan çıkaran vs.
+0.3 = 10 adet not girilmesini ister ve ortalamasını hesaplar.
+0.4 = Dışarıdan veri almadan Mod alma
+0.5 = İç içe for döngüsüyle çarpım tablosu
+0.6 = Kullanıcıdan x tane sayı değeri iste kullanıcının girdiği max değeri bulur
+0.7 = iki sayı girmeni söyler ve bunların toplam, çarpım, fark, bölüm ve kalan bulur
+0.8 = istediğin kadar not girmeni ister ve bunların ortalamasını hesaplar
+0.9 = öğrenci sayısını girmeni ister sonra sırayla notları sorar ve bunların toplamını ortalamsını söyler.
+1.0 = for döngüsü ile basit şekil oluşturma
+1.1 = Kullanıcının girdiği iki değer arasındaki tek ve çift sayıların sayısını bulur
+1.2 = 0
+      01
+      012
+      0123... görseli için
+1.3 = 1. sınıftaki 3 öğrencinin ismini midtermnotunu ve final notunu girmeni ister
+sonra 2. sınıftaki 3 öğrencinin aynı şekilde ve ortalamalarını hesaplar
+1.4 =  Dizilerde arama
+1.5 = Fabrika maaş skalası
+1.6 = veri almaz sayıları küçütken büyüğe sıralar
+1.7 = 10 a kadar Kac adet tek kac adet cift sayi oldugunu hesaplama
+1.8 = basit bi toplamı fonksiyonu ürettim ama + kullanmadan
+1.9 = sınavda geçip geçemediğine göre 1||2 girmeni ister ve kaçar tane olduğunu söyler
