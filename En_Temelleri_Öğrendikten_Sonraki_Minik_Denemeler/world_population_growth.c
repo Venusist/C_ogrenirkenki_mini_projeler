@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+/*kullanıcıdan dünya nüfusu, doğum oranı ve ölüm oranı gibi bilgileri alarak belirli bir yıl için tahmini dünya nüfusunu hesaplar.*/
 int main() {
     double worldpop,annualrise, estimatedpop; 
     float birthrate, deathrate, growthrate;
